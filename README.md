@@ -1,3 +1,5 @@
+
+
 #LDAP Search and Data Extraction Script
 This Bash script is designed to facilitate the interaction with an LDAP server, allowing users to input server details, a base Distinguished Name (DN), and a search filter. The script then performs LDAP searches to extract specific attributes, and the extracted data is saved to separate files.
 
