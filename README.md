@@ -8,8 +8,6 @@ Extracts `Defaultpassword` attributes with the same filter and saves them in `ld
 
 To use the script:
 
-Ensure Bash is installed.
-
 Save the script.
 
 Make it executable: `chmod +x ldap_search_and_extract.sh`
